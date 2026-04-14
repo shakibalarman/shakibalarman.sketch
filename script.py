@@ -109,6 +109,7 @@ def git_commit(message, commit_date):
     )
 
     print(f"{message} successful ✔️")
+    print(f"{message} successful ✔️")
 
 
 def git_push():
