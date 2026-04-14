@@ -51,8 +51,8 @@ def show_start_credit():
 ┃┓┓╋┣┫┓┏┣┓  ┃ ┏┓┏┳┓┏┳┓┓╋  ┃ ┏┓┣┓
 ┗┛┗┗┛┗┗┻┗┛  ┗┛┗┛┛┗┗┛┗┗┗┗  ┗┛┗┻┗┛                       
 
-Created by Aononto Jahan
-GitHub: https://github.com/aonontojahan
+Created by Shakib Al Arman
+GitHub: https://github.com/shakibalarman
 ----------------------------------------
 """)
 
@@ -74,9 +74,9 @@ def show_end_credit():
 
 ----------------------------------------
 ⭐ If you like this project, give it a star on GitHub!
-👉 https://github.com/aonontojahan
+👉 https://github.com/shakibalarman
 
-Made with ❤️  by Aononto Jahan
+Made with ❤️  by Shakib Al Arman
 ----------------------------------------
 """)
 
